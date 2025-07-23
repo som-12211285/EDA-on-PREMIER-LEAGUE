@@ -11,7 +11,6 @@ This project performs Exploratory Data Analysis (EDA) on a Premier League datase
 - [Objectives](#objectives)
 - [Technologies Used](#technologies-used)
 - [Key Insights](#key-insights)
-- [How to Run](#how-to-run)
 - [Visualizations](#visualizations)
 - [Future Work](#future-work)
 - [Author](#author)
@@ -88,3 +87,29 @@ After performing thorough EDA and visualizing various aspects of the Premier Lea
 - **Goalkeepers' saves** were highest in lower-ranked teams, indicating defensive pressure and fewer clean sheets.
 
 ---
+## 📸 Visualizations
+
+Here are a few visualizations used in the project:
+
+- 📊 **Goals scored per season** (Bar chart)  
+- 🥧 **Win distribution by team** (Pie chart)  
+- 🔥 **Heatmap of feature correlations**  
+- 🧍 **Top 10 goal scorers** (Horizontal bar chart)  
+
+---
+
+## 🚀 Future Work
+
+- Include data from more seasons  
+- Add **xG (Expected Goals)** and advanced metrics  
+- Perform **predictive modeling** (e.g., match outcome prediction)  
+- Dashboard creation using **Plotly** or **Power BI**  
+
+---
+
+## 👤 Author
+
+**Somtirtha Chakraborty**  
+🔗 [LinkedIn](https://www.linkedin.com/in/somtirthachakraborty/)  
+📫 [Gmail](chakrabortysomtirtha@gmail.com)
+
